@@ -1,4 +1,4 @@
-package topHundredNQTquestions;
+package NQTquestions;
 
 public class SmallestNumberInArray {
     public static void main(String[] args) {

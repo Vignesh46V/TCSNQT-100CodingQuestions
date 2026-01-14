@@ -1,8 +1,8 @@
-package topHundredNQTquestions;
+package NQTquestions;
 
 public class Palindrome {
     public static void main(String[] args) {
-        int num = 123;
+        int num = 121;
         int original = num;
         int reversed = 0;
 

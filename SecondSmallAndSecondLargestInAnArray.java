@@ -1,4 +1,4 @@
-package topHundredNQTquestions;
+package NQTquestions;
 
 public class SecondSmallAndSecondLargestInAnArray {
     public static void main(String[] args) {

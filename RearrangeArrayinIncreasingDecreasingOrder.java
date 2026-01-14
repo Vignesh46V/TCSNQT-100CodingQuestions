@@ -1,4 +1,4 @@
-package topHundredNQTquestions;
+package NQTquestions;
 
 import java.util.Arrays;
 
